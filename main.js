@@ -1,4 +1,4 @@
-console.log("javascript init");
+console.log("javascript init1");
 
 console.log(ChartDataLabels, "ChartDataLabels ");
 Chart.register(ChartDataLabels);
